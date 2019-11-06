@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./number.css";
 // const NumberButton = () => {
   const NumberButton = props => { 
   

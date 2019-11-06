@@ -6,7 +6,7 @@ import {operators} from "../../../data.js";
 
 //Import your array data to from the provided data file
 
-const Operators = () => {
+
   const Operators = (props) => {
   // STEP 2 - add the imported data to state
   return (
@@ -22,5 +22,5 @@ const Operators = () => {
     </div>
   );
 };
-}
+
 export default Operators;

@@ -5,7 +5,6 @@ import {specials} from "../../../data.js";
 
 //Import your array data to from the provided data file
 
-const Specials = () => {
   const Specials = (props) => {
   // STEP 2 - add the imported data to state
 
@@ -19,6 +18,6 @@ const Specials = () => {
        component matching the name on the provided file. Pass
        it any props needed by the child component*/}
     </div>
-  );
-};
-export default Specials;}
+  );}
+
+export default Specials;

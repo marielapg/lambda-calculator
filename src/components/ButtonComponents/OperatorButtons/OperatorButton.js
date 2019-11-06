@@ -11,4 +11,4 @@ import React from "react";
     </>
   );
 };
-export default OperatorButton;s
+export default OperatorButton;
